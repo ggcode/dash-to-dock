@@ -35,11 +35,16 @@ Will try to keep it in sync with the original/upstream version.
 * You know, git pull
     * `cd ~/.local/share/gnome-shell/extensions/dash-to-dock-app-exopse@fork.localhost`
     * `git pull`
+    
+# Dash to Dock
+![screenshot](https://github.com/micheleg/dash-to-dock/raw/master/media/screenshot.jpg)
 
 ## A dock for the GNOME Shell
 This extension enhances the dash moving it out of the overview and transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops without having to leave the desktop view.
 
-For installation instructions and more information visit [https://micheleg.github.io/dash-to-dock/](https://micheleg.github.io/dash-to-dock/).
+[<img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">](https://extensions.gnome.org/extension/307/dash-to-dock)
+
+For additional installation instructions and more information visit [https://micheleg.github.io/dash-to-dock/](https://micheleg.github.io/dash-to-dock/).
 
 ## Installation from source
 

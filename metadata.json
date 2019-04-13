@@ -5,5 +5,5 @@
 "description": "A fork of dash to dock. Includes option 'app expose'",
 "url": "https://github.com/ggcode/dash-to-dock/",
 "gettext-domain": "dashtodock",
-"version": 64
+"version": 65
 }
