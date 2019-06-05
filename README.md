@@ -37,6 +37,7 @@ Will try to keep it in sync with the original/upstream version.
 * You know, git pull
     * `cd ~/.local/share/gnome-shell/extensions/dash-to-dock-app-exopse@fork.localhost`
     * `git pull`
+    * `make`
     
 # Dash to Dock
 ![screenshot](https://github.com/micheleg/dash-to-dock/raw/master/media/screenshot.jpg)
