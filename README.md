@@ -14,8 +14,8 @@ Will try to keep it in sync with the original/upstream version.
 * Disable 'Dash to dock' extension. _(if installed, as this is a fork)_
 * Terminal:
     * `cd ~/.local/share/gnome-shell/extensions/`
-    * `make`
     * `git clone https://github.com/ggcode/dash-to-dock.git dash-to-dock-app-exopse@fork.localhost`
+    * `make`
 * _Not sure, if needed. But, just in case .. Close 'extensions manager' (gnome tweaks or https://extensions.gnome.org/local/)_
 * Restart gnome session: Hit Alt-F2 -> Type the letter 'r' -> Hit _Enter_
 * Enable extension 'Dash to dock - app expose'
