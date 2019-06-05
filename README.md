@@ -18,7 +18,7 @@ Will try to keep it in sync with the original/upstream version.
     * `cd dash-to-dock-app-exopse@fork.localhost/`
     * `make`
 * _Not sure, if needed. But, just in case .. Close 'extensions manager' (gnome tweaks or https://extensions.gnome.org/local/)_
-* Restart gnome session (wont lose open windows..): Hit Alt-F2 -> Type the letter 'r' -> Hit _Enter_
+* Restart gnome session (will not close open windows..): Hit Alt-F2 -> Type the letter 'r' -> Hit _Enter_
 * Enable extension 'Dash to dock - app expose'
 
 ### And then, what?
